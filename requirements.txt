@@ -1,0 +1,10 @@
+fastapi
+requests
+uvicorn
+sqlalchemy
+asyncio
+asyncpg
+python-dotenv
+aiohttp
+pydantic
+bcrypt
